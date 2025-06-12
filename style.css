@@ -14,12 +14,12 @@
   body{
     color: var(--branco);
     background-color: var(--cor-de-fundo);
-    font-family: var(--reboto);
+    font-family: var(--roboto);
   }
 
   .titulo-principal{
 
-      font-family: var(--reboto-mono);
+      font-family: var(--roboto-mono);
       font-size: 32px;
 
   }
